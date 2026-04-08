@@ -26,7 +26,7 @@ Academic Power BI project using fictional data to analyze sales performance in a
 - Star schema data model
 - KPI-focused design
 
-👉 [View project repository](https://github.com/JoseACarv/PowerBI_Viva-Office_Dashboard)
+👉 [View project repository](https://github.com/JoseAFCarv/PowerBI_Viva-Office_Dashboard)
 
 ---
 
