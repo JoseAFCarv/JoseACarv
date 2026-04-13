@@ -44,7 +44,7 @@ The project was **selected as a finalist**, reaching the final presentation stag
 - Gamification (teams, rankings, badges)
 - Win–win ecosystem involving students, local businesses, NGOs, and the university
 
-👉 View project repository:(https://github.com/JoseAFCarv/iscte-impact-token)
+👉 [View project repository](https://github.com/JoseAFCarv/iscte-impact-token)
 
 ---
 
