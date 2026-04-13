@@ -30,6 +30,24 @@ Academic Power BI project using fictional data to analyze sales performance in a
 
 ---
 
+### 💡 ISCTE Impact Token – Innovation Project (Finalist)
+
+Sustainability and social impact project developed for the  
+**ISCTE Technology & Innovation Ideas Competition**.
+
+The project was **selected as a finalist**, reaching the final presentation stage.
+
+**Highlights:**
+- Token-based reward system to encourage sustainable behaviors
+- Focus on recycling, volunteering, and donations
+- Conceptual mobile app with UX mockups
+- Gamification (teams, rankings, badges)
+- Win–win ecosystem involving students, local businesses, NGOs, and the university
+
+👉 View project repository:(https://github.com/JoseAFCarv/iscte-impact-token)
+
+---
+
 ## 🎯 About this GitHub
 This GitHub account is used to host academic and personal projects focused on data analysis and business intelligence.
 
