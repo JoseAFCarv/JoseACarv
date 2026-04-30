@@ -17,6 +17,19 @@
 
 ## 📁 Featured Project
 
+###🚀 Career Buddy – AI-Driven Career Pathfinder (Finalist)
+Innovation project developed for the Dean’s Open Innovation Challenge 2026 at NOVA IMS, focusing on the "Future of Work." The project was selected as a finalist, reaching the final pitch stage before a specialized jury. 
+
+**Highlights:**
+-	Digital Twin Concept: A proactive AI ecosystem that creates a personalized "Digital Career Twin" to navigate market disruption. 
+-	Predictive Upskilling: Advanced logic to forecast skill demand using job APIs, patent filings, and corporate innovation signals. 
+-	Interactive Dashboard: High-fidelity prototype showcasing a "GPS Learning Roadmap" and "Skill-based Graph" visualizations. 
+-	Human-Centric Design: Personalized interaction model tailored for students, professionals, and career-pivoters.
+  
+👉 [View project repository](https://github.com/JoseAFCarv/CareerBuddy_AITwin)
+
+---
+
 ### 🔹 Power BI – Viva Office Dashboard
 Academic Power BI project using fictional data to analyze sales performance in an office supplies company.
 
