@@ -17,7 +17,8 @@
 
 ## 📁 Featured Project
 
-###🚀 Career Buddy – AI-Driven Career Pathfinder (Finalist)
+### 🚀 Career Buddy – AI-Driven Career Pathfinder (Finalist)
+
 Innovation project developed for the Dean’s Open Innovation Challenge 2026 at NOVA IMS, focusing on the "Future of Work." The project was selected as a finalist, reaching the final pitch stage before a specialized jury. 
 
 **Highlights:**
