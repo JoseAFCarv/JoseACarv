@@ -52,6 +52,19 @@ Academic Power BI project using fictional data to analyze sales performance in a
 
 ---
 
+### 🚗 Power BI – Uber Rides Performance Analysis
+Business Intelligence project analyzing urban mobility trends, driver retention, and transactional behaviors across four Central European markets.
+
+**Highlights:**
+* Engineered a dimensional model leveraging a clean star schema with isolated fact and dimension tables.
+* Audited critical operational inefficiencies, exposing a 38.5% ecosystem cancellation rate and identifying core driver retention drops.
+* Developed custom DAX expressions to identify top geographic revenue engines, payment distribution splits, and multi-tier membership spending patterns.
+* Evaluated high-priority data-quality anomalies to outline strategic digital wallet modernization goals.
+
+👉 [**View project repository**](https://github.com/JoseAFCarv/uber-rides-analysis)
+
+---
+
 ### 💡 ISCTE Impact Token – Innovation Project (Finalist)
 Sustainability and social impact project developed for the ISCTE Technology & Innovation Ideas Competition.
 The project was selected as a finalist, reaching the final presentation stage.
