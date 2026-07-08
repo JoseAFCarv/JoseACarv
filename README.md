@@ -3,6 +3,7 @@
 📊 Interested in data analysis, reporting, and data visualization
 
 ## 🧠 Skills & Tools
+* SQL
 * Power BI
 * Power Query
 * DAX
@@ -23,6 +24,19 @@ The project was selected as a **finalist**, reaching the final pitch stage befor
 * **Human-Centric Design:** Personalized interaction model tailored for students, professionals, and career-pivoters.
 
 👉 [View project repository](https://github.com/JoseAFCarv/CareerBuddy_AITwin)
+
+---
+
+### 📊 SQL – Warehouse & Retail Sales Analysis
+Data analysis project utilizing advanced SQL querying to evaluate retail and warehouse operational performance, audit data quality anomalies, and identify international growth levers.
+
+**Highlights:**
+* **Value vs. Volume Disconnect:** Query-driven analysis revealing that Beer accounts for 62.8% (€1.21M) of global revenue, despite Wine holding the highest transaction count, proving that commercial strategy should target financial weight over volume.
+* **Data Quality Auditing:** Implemented rigorous validation queries to expose system inefficiencies, tracking a significant volume of missing quarterly dates and unpopulated brand registries (€173K in null metrics).
+* **Relational Data Modeling:** Structured a clean star schema separating transactional records from core dimensions (Stores, Suppliers, Items, and Dates) to ensure optimal aggregation performance.
+* **Strategic Growth Forecasting:** Analyzed multi-regional performance data to isolate operation expansion bottlenecks in North America and high-dependency supply chain risks among top partners.
+
+👉 [**View project repository**](https://github.com/JoseAFCarv/warehouse-retail-sales-analysis)
 
 ---
 
